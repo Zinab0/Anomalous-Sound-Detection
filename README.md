@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# Anomalous Sound Detection
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+AI model that detects anomalous sounds indicating potential failures to prevent unexpected breakdowns and reduce economic losses.
 
 ### How to run it on your own machine
 
